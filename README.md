@@ -18,6 +18,7 @@ Pada latihan kali ini kita mengetahui cara,
 ### LATIHAN2
 
 ![img](ss/SS13.png)
+
 Kode di atas akan mencetak string seperti output berikut:
 
 ![img](ss/SS14.png)

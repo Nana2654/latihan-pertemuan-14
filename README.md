@@ -1,5 +1,5 @@
 # latihan-pertemuan-14 
-
+### LATIHAN1
 Pada latihan kali ini kita mengetahui cara,
 * menhitung jumlah karakter pada string
 * mengambil karakter pada string
@@ -14,3 +14,10 @@ Pada latihan kali ini kita mengetahui cara,
 ## output
 
 ![img](ss/SS12.png)
+
+### LATIHAN2
+
+![img](ss/SS13.png)
+Kode di atas akan mencetak string seperti output berikut:
+
+![img](ss/SS14.png)
